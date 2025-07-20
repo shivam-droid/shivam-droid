@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Singhal</h1>
-<h3 align="center">Full-Stack Developer | System Design Enthusiast | FAANG Aspirant</h3>
+<h3 align="center">A Full Stack Developer | DevOps Enthusiast | Lifelong Learner</h3>
 
 ---
 
@@ -32,10 +32,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamsinghal1337&show_icons=true&theme=radical" alt="Shivam's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam-droid&show_icons=true&theme=radical" alt="Shivam's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivamsinghal1337&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Shivam's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivam-droid&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Shivam's GitHub streak" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ### 📫 Contact Me
 
 - 📧 Email: [shivam.singhal.211@gmail.com](mailto:shivam.singhal.211@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/shivamsinghal1337](https://linkedin.com/in/shivamsinghal1337)
+- 💼 LinkedIn: [linkedin.com/in/shivam-singhal5928](https://www.linkedin.com/in/shivam-singhal5928/)
 
 ---
 
