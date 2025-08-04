@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 🎯 Transitioning from Power BI Developer to Full-Stack SDE.
+- 🎯 A Full-Stack SDE.
 - 🌐 Currently building real-time, full-stack applications using the **MERN** stack.
 - 📚 Learning advanced topics like **System Design**, **Design Patterns**, and **Backend Architecture**.
 - 💡 Passionate about solving real-world problems using clean, scalable code.
